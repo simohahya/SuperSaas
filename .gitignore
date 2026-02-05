@@ -37,3 +37,10 @@ build/
 .idea/
 .DS_Store
 Thumbs.db
+
+# ======================
+# Java / JDK (À IGNORER)
+# ======================
+jdks/
+**/jdks/
+**/openjdk-*
