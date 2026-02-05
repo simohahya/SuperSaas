@@ -1,19 +1,38 @@
-# Secrets
-.env
-.env.*
+# ======================
+# Outils / IA / auto
+# ======================
+.cagent/
+.codex/
+skills__system/
+refs/
+openai*/
+**/.cagent
+**/.codex
+**/skills__system
+**/refs
+**/openai*
 
-# Python
+# ======================
+# Python / Backend
+# ======================
 __pycache__/
 *.pyc
 venv/
 .venv/
+**/__pycache__/
+**/*.pyc
 
+# ======================
 # Frontend
+# ======================
 node_modules/
 dist/
 build/
+**/node_modules
 
+# ======================
 # IDE / OS
+# ======================
 .vscode/
 .idea/
 .DS_Store
