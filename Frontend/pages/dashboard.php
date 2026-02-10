@@ -423,12 +423,12 @@
     </div>
 
     <nav class="side-nav">
-      <a class="side-link" href="index.html" data-tip="Accueil">🏠</a>
-      <a class="side-link active" href="dashboard.html" data-tip="Dashboard">📊</a>
-      <a class="side-link" href="emails.html" data-tip="Emails">📧</a>
-      <a class="side-link" href="documents.html" data-tip="Documents">📄</a>
-      <a class="side-link" href="echeances.html" data-tip="Échéances">⏰</a>
-      <a class="side-link" href="parametres.html" data-tip="Paramètres">⚙️</a>
+      <a class="side-link" href="index.php" data-tip="Accueil">🏠</a>
+      <a class="side-link active" href="dashboard.php" data-tip="Dashboard">📊</a>
+      <a class="side-link" href="emails.php" data-tip="Emails">📧</a>
+      <a class="side-link" href="documents.php" data-tip="Documents">📄</a>
+      <a class="side-link" href="echeances.php" data-tip="Échéances">⏰</a>
+      <a class="side-link" href="parametres.php" data-tip="Paramètres">⚙️</a>
     </nav>
   </aside>
 

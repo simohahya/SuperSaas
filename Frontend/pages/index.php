@@ -368,20 +368,20 @@
     <div class="topbar"></div>
 
     <nav class="navbar" aria-label="Navigation principale">
-      <a class="brand" href="index.html">
+      <a class="brand" href="index.php">
         <span class="brand-dot" aria-hidden="true"></span>
         SuperSaaS
       </a>
 
       <ul class="menu">
-        <li><a class="active" href="Home.html">Home</a></li>
-        <li><a href="dashboard.html">Dashboard</a></li>
-        <li><a href="documents.html">Documents</a></li>
-        <li><a href="echeances.html">Échéances</a></li>
-        <li><a href="parametres.html">Paramètres</a></li>
+        <li><a class="active" href="index.php">Home</a></li>
+        <li><a href="dashboard.php">Dashboard</a></li>
+        <li><a href="documents.php">Documents</a></li>
+        <li><a href="echeances.php">Échéances</a></li>
+        <li><a href="parametres.php">Paramètres</a></li>
       </ul>
 
-      <a class="dashboard-link" href="login.html">Connect →</a>
+      <a class="dashboard-link" href="login.php">Connect →</a>
     </nav>
 
     <section class="hero">
@@ -401,8 +401,8 @@
       </p>
 
       <div class="cta">
-        <a href="dashboard.html" class="btn btn-primary">Get Started</a>
-        <a href="login.html" class="btn btn-secondary">Connect</a>
+        <a href="dashboard.php" class="btn btn-primary">Get Started</a>
+        <a href="login.php" class="btn btn-secondary">Connect</a>
       </div>
     </section>
 
